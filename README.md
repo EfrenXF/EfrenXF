@@ -7,7 +7,6 @@
 - 💻 Amante de la tecnología y el desarrollo web.
 
 ## Tecnologías y Herramientas
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
 
