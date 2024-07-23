@@ -1,5 +1,4 @@
-![Header]([https://your-image-url.com](https://cdn.discordapp.com/attachments/1240726459278950482/1265426608903426193/standard1.gif?ex=66a177de&is=66a0265e&hm=8ba14a05fe6707f5029201f1d2febf7c03d39da30378195d94fcde21f59e8af9&))
-
+![Header](https://cdn.discordapp.com/attachments/1240726459278950482/1265426608903426193/standard1.gif?ex=66a177de&is=66a0265e&hm=8ba14a05fe6707f5029201f1d2febf7c03d39da30378195d94fcde21f59e8af9&)
 # ¡Hola! Soy Tirovski 👋
 
 ## Sobre mí
