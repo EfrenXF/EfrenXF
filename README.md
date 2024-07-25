@@ -1,4 +1,4 @@
-# ¡Hola! Soy Tirovski 👋
+# ¡Hola! Soy Efrén 👋
 
 ## Sobre mí
 - 🤖 Apasionado por el desarrollo de **Bots de Discord**.
