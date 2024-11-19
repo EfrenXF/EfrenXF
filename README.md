@@ -3,7 +3,7 @@
 ## Sobre mí
 - 🤖 Apasionado por el desarrollo de **Bots de Discord**.
 - 🌐 Administrador de [Plenix.net](https://plenix.net).
-- 📚 Autor de [Tirovski GitBook](https://tirovski.gitbook.io/tirovski/).
+- 📚 Fudador de [Tirovski](https://tirovski.es).
 - 💻 Amante de la tecnología y el desarrollo web.
 
 ## Tecnologías y Herramientas
@@ -22,7 +22,7 @@ Una guía de información.
 
 ## Contacto
 - 🌐 [Plenix.net](https://plenix.net)
-- 📧 [Email](mailto:tirovski.info@gmail.com)
+- 📧 [Email](mailto:contact@tirovski.es)
 - 💬 [Discord](https://discord.gg/sMUuFGTzap)
 
 ## GitHub Stats
