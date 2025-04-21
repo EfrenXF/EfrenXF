@@ -20,10 +20,10 @@ Un sitio web que ofrece Plenix is ​a network that offers a range of digital se
 - 💬 [Discord](https://discord.hostapixel.com)
 
 ## GitHub Stats
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tirovsky&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EfrenXF&show_icons=true&theme=radical)
 
 ## Lenguajes Más Usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirovsky&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenXF&layout=compact&theme=radical)
 
 ---
 
